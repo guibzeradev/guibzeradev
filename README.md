@@ -1,7 +1,7 @@
 # Olá Me chamo Gibson Couto
 <br>
 
-![Gibson Couto GitHub stats](https://github-readme-stats.vercel.app/api?username=guibzeradev&show_icons=true&theme=radical) <br>
+![Gibson Couto GitHub stats](https://github-readme-stats.vercel.app/api?username=guibzeradev&show_icons=true&theme=radical) <br> <br>
 [![Gibson Couto](https://github-readme-stats.vercel.app/api/top-langs/?username=guibzeradev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## tecnologias que uso diariamente
