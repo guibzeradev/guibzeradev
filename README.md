@@ -1,4 +1,4 @@
-# Olá Me chamo Gibson Couto
+# Olá, me chamo Gibson Couto
 <br>
 
 ![Gibson Couto GitHub stats](https://github-readme-stats.vercel.app/api?username=guibzeradev&show_icons=true&theme=radical) <br> <br>
